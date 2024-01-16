@@ -3,7 +3,7 @@ public class HolaMundo {
         System.out.println("¡Hola Mundo en Java!");
         
         // Modificación extra: Saludo personalizado
-        String nombre = "Usuario";
+        String nom = "Usuario";
         System.out.println("¡Hola " + nombre + "!");
     }
 }
