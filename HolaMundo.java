@@ -4,6 +4,6 @@ public class HolaMundo {
         
         // Modificación extra: Saludo personalizado
         String nom = "Usuario";
-        System.out.println("¡Hola " + nombre + "!");
+        System.out.println("¡Hola "  nombre + "!");
     }
 }
