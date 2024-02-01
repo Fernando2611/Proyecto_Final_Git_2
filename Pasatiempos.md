@@ -33,3 +33,11 @@ Ahora se muestran algunos de los hobbies más populares en México segun las pá
 
 - [3 pasatiempos de los que disfrutan los mexicanos ](https://imparcialoaxaca.mx/estilo/familia/666066/3-pasatiempos-de-los-que-disfrutan-los-mexicanos/) 
 
+Se seleccionarion otros 4 hobbies o pasatiempos de los que se encontraron.
+
+- ## Ver Televisión
+  
+<p align="center">
+    <img src="https://m.media-amazon.com/images/I/51u1ZZS9GGL.jpg" style="height: 250px; width:250px;"/>
+</p>
+
