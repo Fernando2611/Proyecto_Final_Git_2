@@ -59,4 +59,9 @@ Se seleccionarion otros 4 hobbies o pasatiempos de los que se encontraron.
     <img src="https://radioytvmexiquense.mx/wp-content/uploads/2020/01/EOa5_-uWkAMX9YN.jpg" style="height: 250px; width:300px;"/>
 </p>
 
+- ## Bailar
+  
+<p align="center">
+    <img src="https://www.welife.es/wp-content/uploads/sites/3/2023/05/bailar-beneficios-1200x1410.jpg" style="height: 300px; width:300px;"/>
+</p>
 
