@@ -47,3 +47,10 @@ Se seleccionarion otros 4 hobbies o pasatiempos de los que se encontraron.
     <img src="https://www.infisport.com/media/amasty/blog/SprintDeportesEquipo1_2.jpg" style="height: 250px; width:300px;"/>
 </p>
 
+- ## Reunion Amigos
+  
+<p align="center">
+    <img src="https://st1.uvnimg.com/a5/e9/f434993548c98e5297ce7ce10b03/reunion-amigos-casa-anfitrion-basicos.png" style="height: 250px; width:300px;"/>
+</p>
+
+
