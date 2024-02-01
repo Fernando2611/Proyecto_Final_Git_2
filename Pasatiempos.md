@@ -19,6 +19,11 @@ Este archivo contiene hobbies y pasatiempos, inicialmente se muestran los 3 más
         <td><img height="200" src="https://ichef.bbci.co.uk/news/640/amz/worldservice/live/assets/images/2014/12/03/141203172936_artes_marciales_estilos_624x351_thinkstock.jpg" width="300"></td>
         <td><img height="200" src="https://tapout.com.pe/wp-content/uploads/2021/06/que-es-el-muay-thai.jpg" width="300"></td>
     </tr>
+    <tr>
+        <td>Escuchar Música</td>
+        <td><img height="200" src="https://concepto.de/wp-content/uploads/2020/03/musica-e1584123209397.jpg" width="300"></td>
+        <td><img height="200" src="https://1.bp.blogspot.com/-7BIXQYyHQKQ/UcM8IHU3bVI/AAAAAAAAALE/2GHxhwhWwYk/s1600/Dia+de+la+musica.jpg" width="300"></td>
+    </tr>
 </table>
 
 
