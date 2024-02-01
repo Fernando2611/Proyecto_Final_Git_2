@@ -1,6 +1,6 @@
 # Hobbies y Pasatiempos
 
-Este archivo contiene hobbies y pasatiempos, inicialmente se muestran los 3 más comunes en una tabla con dos imágenes de cada uno. Posterior a ello se agregan algunos hobbies no tan populares en forma de lista con su respectiva imágen.
+Este archivo contiene hobbies y pasatiempos, inicialmente se muestran algunos que me parecen interesantes en una tabla con dos imágenes de cada uno. Posterior a ello se agregan algunos hobbies populares en méxico en forma de lista con su respectiva imágen.
 
 
 <table border="4px">
@@ -26,4 +26,10 @@ Este archivo contiene hobbies y pasatiempos, inicialmente se muestran los 3 más
     </tr>
 </table>
 
+
+Ahora se muestran algunos de los hobbies más populares en México segun las páginas siguientes:
+
+- [Hobbies y aficiones en México ](https://www.hobbyaficion.com/hobbies-y-aficiones-en-mexico/) 
+
+- [3 pasatiempos de los que disfrutan los mexicanos ](https://imparcialoaxaca.mx/estilo/familia/666066/3-pasatiempos-de-los-que-disfrutan-los-mexicanos/) 
 
